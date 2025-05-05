@@ -1,0 +1,4 @@
+John Smith, Developer, 45000
+Sarah Johnson, Manager, 65000
+Michael Brown, Designer, 52000
+...etc.
